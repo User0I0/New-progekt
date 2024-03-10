@@ -1,8 +1,9 @@
 @import url(https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;800;900&display=swap);
 
 body {
-  font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif;
 }
+
 body {
     background: black;
     position: relative;
@@ -13,28 +14,79 @@ body {
     height: 1536.777px;
     border-radius: 54.355px;
     position: absolute;
+    margin: 0 auto;
 }
-.sp{
-position: absolute;
-width: 103.949px;
-height: 149.586px;
-color: #FFF;
-font-family: Inter;
-font-size: 213.021px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-margin-top: -1491.21px;
-margin-left: 87.51px;
+
+.sp {
+    position: absolute;
+    width: 103.949px;
+    height: 149.586px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 213.021px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -1491.21px;
+    margin-left: 87.51px;
 }
-.t-1{
+
+.t-1 {
     width: 1123.543px;
-height: 372.632px;
-color: #FFF;
-font-family: Inter;
-font-size: 66.569px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-margin-top: -961.39px;
+    height: 372.632px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 66.569px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -1161.39px;
+    margin-left: 178.29px;
+}
+
+.stars {
+    width: 549.68px;
+    height: 73.159px;
+    margin-top: 215px;
+    margin-left: 466.24px;
+    position: absolute;
+}
+
+.icon {
+    width: 278.888px;
+    height: 278.888px;
+    position: absolute;
+    margin-top: 405px;
+    margin-left: 302.51px;
+}
+
+.texts {
+    width: 477.082px;
+    height: 200.452px;
+    position: absolute;
+    margin-top: 424px;
+    margin-left: 701.68px;
+}
+
+.t-1a {
+    width: 477.082px;
+    height: 93.158px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 66.569px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.t-2 {
+    width: 440.384px;
+    height: 76.22px;
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Inter;
+    font-size: 55.474px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 31.07px;
 }
